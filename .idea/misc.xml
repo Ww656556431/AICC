@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/call-api/pom.xml" />
         <option value="$PROJECT_DIR$/bot-api/pom.xml" />
+        <option value="$PROJECT_DIR$/media-server/pom.xml" />
       </list>
     </option>
   </component>
