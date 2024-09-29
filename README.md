@@ -12,6 +12,9 @@ AI外呼系统，基于自然语言处理（NLP）、语音识别（ASR）、语
 ## freeswitch
 ![img_3.png](call-web/img_3.png)
 
+## 系统架构
+![img_5.png](call-web/img_5.png)
+
 ## 演示环境
 AICC智能外呼
 http://dev.wyszai.com/        账号：test  密码：12345678
